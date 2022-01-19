@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pasha-Bandalli
 - 👀 I’m interested in finding new interests.
 - 🌱 I’m currently learning some basic Java. python and sql next on the list.
-- 💞️ I’m looking to collaborate on stuff that will get me paid or at the least, isn't over my head.
 - 📫 How to reach me: pband802@mtroyal.ca
 
 <!---
